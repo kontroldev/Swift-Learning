@@ -17,8 +17,6 @@ Este repositorio es perfecto para:
 - Desarrolladores que busquen practicar conceptos específicos.
 - Estudiantes de programación que necesiten un material de apoyo.
 
-
-
 ## Índice de Contenidos
 
 ## 1. Swift Básico
@@ -47,6 +45,28 @@ Este repositorio es perfecto para:
 6. [Operador de Fusión de Nil](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/2.%20Operadores%20Basicos/06%20-%20Operador%20coalescencia%20nula.md)
 7. [Operadores de Rango](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/2.%20Operadores%20Basicos/07%20-%20Operadores%20de%20rango.md)
 8. [Operadores Lógicos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/2.%20Operadores%20Basicos/08%20-%20Operadores%20lógicos.md)
+
+---
+
+## 3. String y Caracteres
+
+1. [Strings](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/1%20-%20String.md)
+2. [Trabajando con Caracteres](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/2%20-%20Trabajando%20con%20caracteres.md)
+3. [Modificación de Caracteres](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/3%20-%20Modificando%20caracteres.md)
+4. [Subcadenas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/4%20-%20Subcadenas.md)
+5. [Unicode en Strings](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/5%20-%20Unicode%20en%20cadenas.md)
+
+---
+
+## 4. Tipo de Colecciones
+
+1. [Colecciones Mutables](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/1%20-%20Colecciones%20mutables.md)
+2. [Arrays](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/2%20-%20Arrays.md)
+3. [Sets](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/3%20-%20Sets.md)
+4. [Diccionarios](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/4%20-%20Diccionarios.md)
+
+---
+
 ## Recursos Adicionales
 
 - [Documentación oficial de Swift](https://docs.swift.org/swift-book/)
@@ -57,3 +77,4 @@ Este repositorio es perfecto para:
 ---
 
 *Este repositorio se actualizará constantemente para incluir nuevas lecciones, ejercicios y características introducidas en las versiones más recientes de Swift, ¡manteniéndolo siempre al día!*
+
