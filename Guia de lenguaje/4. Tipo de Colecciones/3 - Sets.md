@@ -123,7 +123,7 @@ print(diferencia) // Imprime: [1, 2]
 
 ---
 
-## Comparación entre Sets
+## Comparación entre Sets o Sub-Sets
 
 Puedes comparar dos sets utilizando operadores como `==`, `isSubset(of:)`, `isSuperset(of:)`, y más.
 

@@ -1,3 +1,5 @@
+
+
 [![GitHub stars](https://img.shields.io/github/stars/kontroldev/Swift-Learning?style=social)](https://github.com/kontroldev/Swift-Learning/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/kontroldev/Swift-Learning?style=social)](https://github.com/kontroldev/Swift-Learning/network/members)
 
@@ -17,9 +19,11 @@ Este repositorio es perfecto para:
 - Desarrolladores que busquen practicar conceptos específicos.
 - Estudiantes de programación que necesiten un material de apoyo.
 
+---
+
 ## Índice de Contenidos
 
-## 1. Swift Básico
+### 1. Swift Básico
 
 1. [Variables y Constantes en Swift](https://github.com/kontroldev/Swift-Learning/blob/3d3141f17736b788e2bfa0f3048dd2643762f513/Guia%20de%20lenguaje/1.%20Swift%20Basico/01%20-%20Variables%20y%20Constantes%20en%20Swift.md)
 2. [Anotaciones de Tipo](https://github.com/kontroldev/Swift-Learning/blob/c9063da8f21c8af87e4c715a7da6f4d922fc325d/Guia%20de%20lenguaje/1.%20Swift%20Basico/02%20-%20Anotaciones%20de%20tipo.md)
@@ -35,7 +39,7 @@ Este repositorio es perfecto para:
 
 ---
 
-## 2. Operadores Básicos
+### 2. Operadores Básicos
 
 1. [Operador de Asignación](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/2.%20Operadores%20Basicos/01%20-%20%20Operadores%20de%20asignación.md)
 2. [Operadores Aritméticos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/2.%20Operadores%20Basicos/02%20-%20Operadores%20aritméticos.md)
@@ -48,7 +52,7 @@ Este repositorio es perfecto para:
 
 ---
 
-## 3. String y Caracteres
+### 3. String y Caracteres
 
 1. [Strings](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/1%20-%20String.md)
 2. [Trabajando con Caracteres](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/3.%20String%20y%20Carcateres/2%20-%20Trabajando%20con%20caracteres.md)
@@ -58,12 +62,23 @@ Este repositorio es perfecto para:
 
 ---
 
-## 4. Tipo de Colecciones
+### 4. Tipo de Colecciones
 
 1. [Colecciones Mutables](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/1%20-%20Colecciones%20mutables.md)
 2. [Arrays](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/2%20-%20Arrays.md)
 3. [Sets](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/3%20-%20Sets.md)
 4. [Diccionarios](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/4.%20Tipo%20de%20Colecciones/4%20-%20Diccionarios.md)
+
+---
+
+### 5. Flujos de Control
+
+1. [Bucles For](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/1%20-%20Bucles%20For.md)
+2. [Bucles While](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/2%20-%20Bucles%20While.md)
+3. [Sentencias If](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/3%20-%20%20Sentencias%20If.md)
+4. [Tuplas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/4%20-%20Tuplas.md)
+5. [Where](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/5%20-%20Where.md)
+6. [Control de Transferencias](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/6%20-%20Control%20de%20transferencias.md)
 
 ---
 
@@ -78,3 +93,5 @@ Este repositorio es perfecto para:
 
 *Este repositorio se actualizará constantemente para incluir nuevas lecciones, ejercicios y características introducidas en las versiones más recientes de Swift, ¡manteniéndolo siempre al día!*
 
+
+[![License](https://img.shields.io/github/license/kontroldev/Swift-Learning)](./LICENSE)
