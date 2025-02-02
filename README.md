@@ -27,17 +27,16 @@ Este repositorio es perfecto para:
 
 ### 1. Swift Básico
 
-1. [Variables y Constantes en Swift](https://github.com/kontroldev/Swift-Learning/blob/3d3141f17736b788e2bfa0f3048dd2643762f513/Guia%20de%20lenguaje/1.%20Swift%20Basico/01%20-%20Variables%20y%20Constantes%20en%20Swift.md)
-2. [Anotaciones de Tipo](https://github.com/kontroldev/Swift-Learning/blob/c9063da8f21c8af87e4c715a7da6f4d922fc325d/Guia%20de%20lenguaje/1.%20Swift%20Basico/02%20-%20Anotaciones%20de%20tipo.md)
-3. [Nomenclatura de Constantes y Variables](https://github.com/kontroldev/Swift-Learning/blob/c9063da8f21c8af87e4c715a7da6f4d922fc325d/Guia%20de%20lenguaje/1.%20Swift%20Basico/03%20-%20Nomenclatura%20de%20Constantes%20y%20Variables.md)
-4. [Comentarios en Swift](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/04%20-%20Comentarios%20en%20Swift.md)
-5. [Enteros](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/05%20-%20Enteros.md)
-6. [Números de Punto Flotante](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/06%20-%20Numeros%20de%20punto%20flotante.md)
-7. [Type Alias](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/07%20-%20Type%20Alias.md)
-8. [Booleanos](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/08%20-%20Booleanos.md)
-9. [Tuplas](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/09%20-%20Tuplas.md)
-10. [Opcionales](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/10%20-%20Opcionales.md)
-11. [Manejo de Errores](https://github.com/kontroldev/Swift-Learning/blob/3ceef63654bec04d97277c674fa0a5f5eed46403/Guia%20de%20lenguaje/1.%20Swift%20Basico/11%20-%20Manejo%20de%20errores.md)
+1. [Variables y Constantes en Swift](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/01%20-%20Variables%20y%20Constantes%20en%20Swift.md)
+2. [Anotaciones de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/02%20-%20Anotaciones%20de%20tipo.md)
+3. [Nomenclatura de Constantes y Variables](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/03%20-%20Nomenclatura%20de%20Constantes%20y%20Variables.md)
+4. [Comentarios en Swift](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/04%20-%20Comentarios%20en%20Swift.md)
+5. [Enteros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/05%20-%20Enteros.md)
+6. [Números de Punto Flotante](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/06%20-%20Números%20de%20punto%20flotante.md)
+7. [Type Alias](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/07%20-%20Type%20Alias.md)
+8. [Booleanos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/08%20-%20Booleanos.md)
+9. [Tuplas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/09%20-%20Tuplas.md)
+10. [Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/1.%20Swift%20Basico/11%20-%20Manejo%20de%20errores.md)
 
 ---
 
@@ -81,6 +80,21 @@ Este repositorio es perfecto para:
 4. [Tuplas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/4%20-%20Tuplas.md)
 5. [Where](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/5%20-%20Where.md)
 6. [Control de Transferencias](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/5.%20Flujos%20de%20control/6%20-%20Control%20de%20transferencias.md)
+
+---
+
+### 6. Funciones
+
+1. [Funciones](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/1%20-%20Funciones.md)
+2. [Parámetros y Valores de Retorno](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/2%20-%20Parámetros%20y%20Valores%20de%20Retorno.md)
+3. [Tuplas Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/3%20-%20Tuplas%20opcionales.md)
+4. [Etiquetas de Argumentos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/4%20-%20Etiquetar%20argumentos.md)
+5. [Parámetros Variádicos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/5%20-%20Parámetro%20variadicos.md)
+6. [Parámetros In-Out](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/6%20-%20Parámetros%20In-Out.md)
+7. [Tipos de Función](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/7%20-%20Tipos%20de%20Funciones.md)
+8. [Funciones como Parámetros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/8%20-%20Tipos%20de%20Función%20como%20Parámetros.md)
+9. [Funciones como Retorno](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/9%20-%20Funciónes%20de%20Retorno%20.md)
+10. [Funciones Anidadas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/6.%20Funciones/10%20-%20Funciones%20Anidadas.md)
 
 ---
 
