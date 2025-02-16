@@ -98,6 +98,53 @@ Este repositorio es perfecto para:
 
 ---
 
+### 7. Closures
+
+1. [Qué son los Closures](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/7.%20Clousures/1%20-%20Que%20son%20los%20Closures.md)
+2. [Closures como tipos de referencia](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/7.%20Clousures/2%20-%20Closures%20tipos%20por%20referencia.md)
+
+### 8. Enum
+
+1. [Qué son los Enums](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/1%20-%20%20Que%20son%20los%20Enums.md)
+2. [Iterar sobre los Enums](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/2%20-%20Iterar%20sobre%20los%20Enums.md)
+3. [Valores asociados en Enums](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/3%20-%20Valores%20asociados%20Enums.md)
+4. [Raw Values](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/4%20-%20Raw%20Values.md)
+5. [Valores Brutos Implícitos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/5%20-%20Valores%20Brutos%20implicito..md)
+6. [Inicializar desde un valor en bruto](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/6%20-%20Inicializar%20un%20valor%20en%20bruto.md)
+7. [Recursividad en los Enums](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/7%20-%20Recursividad%20en%20los%20enums.md)
+
+---
+
+### 9. Struct y Class
+1. [Comparación entre Struct y Class](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/1%20-%20%20Comparacion%20struct%20%26%20class.md)
+2. [Definir la Sintaxis](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/2%20-%20Definir%20la%20sintaxis.md)
+3. [Instancias en Struct y Class](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/3%20-%20Instancias%20de%20struct%20y%20class.md)
+4. [Accediendo a Propiedades](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/4%20-%20accediendo%20a%20propiedades.md)
+5. [Inicialización (`init`)](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/5%20-%20Init.md)
+6. [Struct y Enum como tipos de valor](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/6%20-%20struct%20y%20enum%20por%20valor.md)
+7. [Clases como tipos de referencia](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/9.%20struct%20y%20class/7%20-%20Clases%20por%20referencia.md)
+
+---
+
+### 10. Propiedades
+1. [Stored Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/1%20-%20Stored%20Properties.md)
+2. [Propiedades en constantes](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/2%20-%20Propiedades%20almacenadas%20en%20constantes.md)
+3. [Lazy Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/3%20-%20Lazy%20Properties.md)
+4. [Propiedades en variables](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/4%20-%20Propiedades%20almacenadas%20en%20variables.md)
+5. [Computed Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/5%20-%20Cmputed%20Properties.md)
+6. [Declaración simplificada de Getter](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/6%20-%20Declaracion%20getter.md)
+7. [Computed Properties (Read-Only)](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/7%20-%20Computed%20Properties(Read%20only).md)
+8. [Observadores de Propiedades (`willSet` y `didSet`)](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/8%20-%20willSet%20y%20didSet.md)
+9. [Property Wrappers](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/9%20-%20Propertiy%20Wrappers.md)
+10. [Valores iniciales en Property Wrappers](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/10%20-%20Valores%20iniciales.md)
+11. [Property Wrappers con valores proyectados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/11%20-%20Properties%20Wrapper%20con%20valores.md)
+12. [Variables globales y locales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/12%20-%20Variables%20globales%20y%20locales.md)
+13. [Type Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/13%20-%20Type%20Properties.md)
+14. [Type Property Syntax](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/14%20-%20Type%20Property%20Syntax.md)
+15. [Consultar y Modificar Propiedades de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/10.%20Properties/15%20-%20Sintaxis%20de%20Properties.md)
+
+---
+
 ## Recursos Adicionales
 
 - [Documentación oficial de Swift](https://docs.swift.org/swift-book/)
