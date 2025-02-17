@@ -146,38 +146,38 @@ Este repositorio es perfecto para:
 ---
 
 ### 11. Métodos
-1. [Definiendo Métodos](Guia%20de%20lenguaje/11.%20Metodos/1%20-%20Define%20metodos.md)
-2. [Método `self`](Guia%20de%20lenguaje/11.%20Metodos/2%20-%20Metodo%20`self`.md)
-3. [Métodos de Instancia](Guia%20de%20lenguaje/11.%20Metodos/3%20-%20Métodos%20de%20instancia.md)
-4. [Métodos Mutating](Guia%20de%20lenguaje/11.%20Metodos/4%20-%20mutating.md)
+1. [Definiendo Métodos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/11.%20Metodos/1%20-%20Define%20metodos.md)
+2. [Método `self`](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/11.%20Metodos/2%20-%20Metodo%20%60self%60.md)
+3. [Métodos de Instancia](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/11.%20Metodos/3%20-%20Métodos%20de%20instancia.md)
+4. [Métodos Mutating](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/11.%20Metodos/4%20-%20mutating.md)
 
 ---
 
 ### 12. Subscripts
-1. [Sintaxis](Guia%20de%20lenguaje/12.%20Subscripts/1%20-%20Sintaxis.md)
-2. [Opciones de Subíndices](Guia%20de%20lenguaje/12.%20Subscripts/2%20-%20Opciones%20de%20subíndices.md)
-3. [Tipos de Subíndices](Guia%20de%20lenguaje/12.%20Subscripts/3%20-%20Tipo%20de%20subíndices.md)
+1. [Sintaxis](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/12.%20Subscripts/1%20-%20Sintaxis.md)
+2. [Opciones de Subíndices](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/12.%20Subscripts/2%20-%20Opciones%20de%20subíndices.md)
+3. [Tipos de Subíndices](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/12.%20Subscripts/3%20-%20Tipo%20de%20subíndices.md)
 
 ### 13. Herencia
-1. [Definiendo una Clase](Guia%20de%20lenguaje/13.%20Herencia/1%20-%20Definiendo%20una%20clase.md)
-2. [Subclases](Guia%20de%20lenguaje/13.%20Herencia/2%20-%20Subclases.md)
-3. [Sobrescritura](Guia%20de%20lenguaje/13.%20Herencia/3%20-%20Overriding.md)
-4. [Sobrescribiendo Propiedades](Guia%20de%20lenguaje/13.%20Herencia/4%20-%20Overriding%20Properties.md)
-5. [Previniendo Sobrescritura](Guia%20de%20lenguaje/13.%20Herencia/5%20-%20Previniendo%20sobreescritura.md)
+1. [Definiendo una Clase](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/1%20-%20Definiendo%20una%20clase.md)
+2. [Subclases](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/2%20-%20Subclases.md)
+3. [Sobrescritura](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/3%20-%20Overrifing.md)
+4. [Sobrescribiendo Propiedades](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/4%20-%20Overriding%20Properties.md)
+5. [Previniendo Sobrescritura](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/5%20-%20Previniendo%20sobreescritura.md)
 
 ---
 
 ### 14. Inicializadores
-1. [Inicialización en Swift](Guia%20de%20lenguaje/14.%20Inicializadores/1%20-%20init.md)
-2. [Creando un Inicializador](Guia%20de%20lenguaje/14.%20Inicializadores/2%20-%20Creando%20init.md)
-3. [Propiedades Opcionales](Guia%20de%20lenguaje/14.%20Inicializadores/3%20-%20Propiedades%20opcionales.md)
-4. [Inicializador Predeterminado](Guia%20de%20lenguaje/14.%20Inicializadores/4%20-%20Init%20default.md)
-5. [Delegación de Inicialización en Tipos de Valor](Guia%20de%20lenguaje/14.%20Inicializadores/5%20-%20Delegate%20values.md)
-6. [Herencia en Inicialización](Guia%20de%20lenguaje/14.%20Inicializadores/6%20-%20Herencia%20en%20init.md)
-7. [Delegación de Inicialización en Clases](Guia%20de%20lenguaje/14.%20Inicializadores/7%20-%20Delegando%20init.md)
-8. [Inicializadores Fallables](Guia%20de%20lenguaje/14.%20Inicializadores/8%20-%20init%20Failable.md)
-9. [Propagación de Fallos en la Inicialización](Guia%20de%20lenguaje/14.%20Inicializadores/9%20-%20Propagación%20de%20init.md)
-10. [Inicializadores Requeridos](Guia%20de%20lenguaje/14.%20Inicializadores/10%20-%20Required%20init.md)
+1. [Inicialización en Swift](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/1%20-%20init.md)
+2. [Creando un Inicializador](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/2%20-%20Creando%20init.md)
+3. [Propiedades Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/3%20-%20Propiedades%20opcionales.md)
+4. [Inicializador Predeterminado](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/4%20-%20Init%20default.md)
+5. [Delegación de Inicialización en Tipos de Valor](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/5%20-%20Delegate%20values.md)
+6. [Herencia en Inicialización](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/6%20-%20Herencia%20en%20init.md)
+7. [Delegación de Inicialización en Clases](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/7%20-%20Delegando%20init.md)
+8. [Inicializadores Fallables](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/8%20-%20init%20Failable.md)
+9. [Propagación de Fallos en la Inicialización](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/9%20-%20Prropagación%20de%20init.md)
+10. [Inicializadores Requeridos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/10%20-%20Rquired%20init.md)
 
 ---
 ## Recursos Adicionales
