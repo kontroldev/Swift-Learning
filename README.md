@@ -103,6 +103,8 @@ Este repositorio es perfecto para:
 1. [Qué son los Closures](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/7.%20Clousures/1%20-%20Que%20son%20los%20Closures.md)
 2. [Closures como tipos de referencia](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/7.%20Clousures/2%20-%20Closures%20tipos%20por%20referencia.md)
 
+---
+
 ### 8. Enum
 
 1. [Qué son los Enums](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/8.%20Enum/1%20-%20%20Que%20son%20los%20Enums.md)
@@ -158,6 +160,8 @@ Este repositorio es perfecto para:
 2. [Opciones de Subíndices](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/12.%20Subscripts/2%20-%20Opciones%20de%20subíndices.md)
 3. [Tipos de Subíndices](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/12.%20Subscripts/3%20-%20Tipo%20de%20subíndices.md)
 
+---
+
 ### 13. Herencia
 1. [Definiendo una Clase](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/1%20-%20Definiendo%20una%20clase.md)
 2. [Subclases](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/13.%20Herencia/2%20-%20Subclases.md)
@@ -180,6 +184,51 @@ Este repositorio es perfecto para:
 10. [Inicializadores Requeridos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/14.%20Inicializadores/10%20-%20Rquired%20init.md)
 
 ---
+
+### 15. Desinicialización
+
+1. [Desinicialización](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/15.%20Desinicializacion/1%20-%20Desinicializacion.md)
+2. [Desinicializadores en Acción](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/15.%20Desinicializacion/2%20-%20Desinicializadores%20en%20Accion.md)
+
+---
+
+### 16. Optional Chaining
+
+1. [Encadenamiento Opcional](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/1%20-%20Encadenamiento%20Opcional.md)
+2. [Clases de Modelo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/2%20-%20Clases%20de%20Modelo.md)
+3. [Propiedades con Encadenamiento Opcional](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/3%20-%20Propiedad%20con%20Encadenamiento%20Opcional.md)
+4. [Métodos con Encadenamiento Opcional](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/4%20-%20Methods%20con%20Encadenamiento%20Opcional.md)
+5. [Subscripts con Encadenamiento Opcional](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/5%20-%20Subscripts%20con%20Encadenamiento%20Opcional.md)
+6. [Métodos de Retorno Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/16.%20Optional%20Chaining/8%20-%20Optional%20Return%20Methods.md)
+
+---
+
+### 17. Manejo de Errores
+
+1. [Lanzamiento de Errores (Throwing Errors)](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/1%20-%20Throwing%20Errors.md)
+2. [Propagación de Errores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/2%20-%20Error%20Propagation.md)
+3. [Manejo de Errores con Do-Catch](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/3%20-%20Handling%20Errors%20Do%20Catch.md)
+4. [Convertir Errores en Valores Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/4%20-%20Converting%20Errors%20to%20Optional%20Values.md)
+5. [Deshabilitar la Propagación de Errores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/5%20-%20Disabling%20Error%20Propagation.md)
+6. [Especificar Tipos de Error](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/6%20-%20Specifying%20Error%20Type.md)
+7. [Especificar Acciones de Limpieza](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/17.%20Manejo%20de%20errores/7%20-%20Specifying%20Cleanup%20Actions.md)
+
+---
+
+### 18. Concurrencia
+
+1. [Introducción a la Concurrencia](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/1%20-%20Concurrencia.md)
+2. [Definir y Llamar Funciones Asíncronas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/2%20-%20Definir%20y%20Llamar%20Funciones%20Asincronas.md)
+3. [Secuencias Asíncronas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/3%20-%20Secuencias%20Asincronas.md)
+4. [Llamadas Asíncronas en Paralelo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/4%20-%20Asincronas%20en%20Paralelo.md)
+5. [Tareas y Grupos de Tareas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/5%20-%20Tareas%20y%20Grupos%20de%20Tareas.md)
+6. [Cancelación de Tareas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/6%20-%20Cancelacion%20de%20Tareas.md)
+7. [Concurrencia No Estructurada](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/7%20-%20Concurrencia%20No%20Estructurada.md)
+8. [Actores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/8%20-%20Actores.md)
+9. [Tipos Sendable](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/18.%20Concurrency/9%20-%20Tipos%20Sendable.md)
+
+---
+
 ## Recursos Adicionales
 
 - [Documentación oficial de Swift](https://docs.swift.org/swift-book/)
