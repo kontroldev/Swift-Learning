@@ -237,16 +237,16 @@ Este repositorio es perfecto para:
 2. [Macros Independientes](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/2%20-%20Macros%20independientes.md)
 3. [Macros Adjuntas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/3%20-%20Macros%20adjuntas.md)
 4. [Declaraciones de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/4%20-%20Declaraciones%20de%20Macros.md)
-5. [Expansión de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/5%20-%20Expansi%C3%B3n%20de%20Macros.md)
-6. [Implementación de Macro](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/6%20-%20Implementaci%C3%B3n%20de%20Macro.md)
-7. [Desarrollo de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/7%20-%20Desarrollo%20de%20Macros.md)
+5. [Expansión de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/5%20-%20Expansión%20de%20Macros.md)
+6. [Implementación de Macro](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/6%20-%20Implementación%20de%20Macro.md)
+7. [Desarrollo de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/7%20-%20Desarrollo%20y%20Depuración%20de%20Macros.md)
 
 ---
 
 ### 20. Type Casting
 
-1. [Definir una Jerarquía](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/1%20-%20Definir%20una%20Jerarqu%C3%ADa.md)
-2. [Comprobación de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/2%20-%20Comprobaci%C3%B3n%20de%20tipo.md)
+1. [Definir una Jerarquía](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/1%20-%20Definir%20una%20Jerarquía.md)
+2. [Comprobación de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/2%20-%20Comprobación%20de%20tipo.md)
 3. [Downcasting](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/3%20-%20Downcasting.md)
 4. [Type Casting](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/4%20-%20Type%20Casting.md)
 
@@ -265,7 +265,7 @@ Este repositorio es perfecto para:
 2. [Computed Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/2%20-%20Computed%20Properties.md)
 3. [Inicializadores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/3%20-%20Initializers.md)
 4. [Methods](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/4%20-%20Methods.md)
-5. [Mutating Instance](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/5%20-%20Mutating%20Instance.md)
+5. [Mutating Instance](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/5%20-%20Mutating%20instance.md)
 6. [Subscripts](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/6%20-%20Subscripts.md)
 7. [Nested Type](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/7%20-%20Nested%20Type.md)
 
