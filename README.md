@@ -231,6 +231,45 @@ Este repositorio es perfecto para:
 
 ---
 
+### 19. Macros
+
+1. [¿Qué son las Macros?](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/1%20-%20Que%20son%20las%20Macros.md)
+2. [Macros Independientes](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/2%20-%20Macros%20independientes.md)
+3. [Macros Adjuntas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/3%20-%20Macros%20adjuntas.md)
+4. [Declaraciones de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/4%20-%20Declaraciones%20de%20Macros.md)
+5. [Expansión de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/5%20-%20Expansi%C3%B3n%20de%20Macros.md)
+6. [Implementación de Macro](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/6%20-%20Implementaci%C3%B3n%20de%20Macro.md)
+7. [Desarrollo de Macros](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/19.%20Macros/7%20-%20Desarrollo%20de%20Macros.md)
+
+---
+
+### 20. Type Casting
+
+1. [Definir una Jerarquía](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/1%20-%20Definir%20una%20Jerarqu%C3%ADa.md)
+2. [Comprobación de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/2%20-%20Comprobaci%C3%B3n%20de%20tipo.md)
+3. [Downcasting](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/3%20-%20Downcasting.md)
+4. [Type Casting](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/20.%20Type%20Casting/4%20-%20Type%20Casting.md)
+
+---
+
+### 21. Tipos Anidados
+
+1. [Uso de Anidados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/21.%20Tipos%20anidados/1%20-%20Uso%20de%20anidados.md)
+2. [Accediendo a Tipos Anidados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/21.%20Tipos%20anidados/2%20-%20Accediendo%20a%20tipos%20anidados.md)
+
+---
+
+### 22. Extensiones
+
+1. [Sintaxis de Extensiones](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/1%20-%20Sintaxis%20de%20Extensiones.md)
+2. [Computed Properties](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/2%20-%20Computed%20Properties.md)
+3. [Inicializadores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/3%20-%20Initializers.md)
+4. [Methods](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/4%20-%20Methods.md)
+5. [Mutating Instance](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/5%20-%20Mutating%20Instance.md)
+6. [Subscripts](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/6%20-%20Subscripts.md)
+7. [Nested Type](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/7%20-%20Nested%20Type.md)
+
+---
 ## Recursos Adicionales
 
 - [Documentación oficial de Swift](https://docs.swift.org/swift-book/)
