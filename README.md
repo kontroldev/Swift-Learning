@@ -270,6 +270,117 @@ Este repositorio es perfecto para:
 7. [Nested Type](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/22.%20Extensiones/7%20-%20Nested%20Type.md)
 
 ---
+
+## 23. Protocolos
+
+1. [Sintaxis básica](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/1%20-%20Sintaxis%20básica.md)
+2. [Requisitos de propiedades](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/2%20-%20Requisitos%20de%20propiedades.md)
+3. [Requisitos de métodos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/3%20-%20Requisitos%20de%20métodos.md)
+4. [Requisitos de inicializadores](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/4%20-%20Requisitos%20de%20inicializadores.md)
+5. [Protocolos de tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/5%20-%20Protocolos%20de%20tipo.md)
+6. [Delegation](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/6%20-%20Delegation.md)
+7. [Agregar conformidad a un protocolo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/7%20-%20Agregar%20conformidad%20a%20un%20protocolo.md)
+8. [Conformidad condicional](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/8%20-%20Conformidad%20condicional.md)
+9. [Adoptar un protocolo con implementación sintetizada](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/9%20-%20Adoptar%20un%20protocolo%20con%20implementación%20sintetizada.md)
+10. [Colecciones de Tipos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/10%20-%20Colecciones%20de%20Tipos.md)
+11. [Herencia de protocolo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/11%20-%20Herencia%20de%20protocolo.md)
+12. [Protocolos exclusivos para clases](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/12%20-%20Protocolos%20exclusivos%20para%20clases.md)
+13. [Composición de protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/13%20-%20Composición%20de%20protocolos.md)
+14. [Verificación de conformidad con un protocolo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/14%20-%20Verificación%20de%20conformidad%20con%20un%20protocolo.md)
+15. [Requisitos opcionales en protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/15%20-%20Requisitos%20opcionales%20en%20protocolos.md)
+16. [Extensiones de protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/16%20-%20Extensiones%20de%20protocolos.md)
+17. [Proporcionar implementaciones por defecto](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/17%20-%20Proporcionar%20implementaciones%20por%20defecto.md)
+18. [Agregar restricciones a extensiones de protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/23.%20Protocolos/18%20-%20Agregar%20restricciones%20a%20extensiones%20de%20protocolos.md)
+
+---
+
+### 24. Genéricos
+
+1. [Código Reutilizable sin Genéricos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/1%20-%20Codigo%20Reutilizable%20sin%20Genericos.md)
+2. [Funciones Genéricas](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/2%20-%20Funciones%20Genericas.md)
+3. [Parámetros de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/3%20-%20Parametros%20de%20Tipo.md)
+4. [Nombrando Parámetros de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/4%20-%20Nombrando%20Parametros%20de%20Tipo.md)
+5. [Tipos Genéricos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/5%20-%20Tipos%20Genericos.md)
+6. [Extender un Tipo Genérico](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/6%20-%20Extender%20un%20Tipo%20Generico.md)
+7. [Restricciones de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/7%20-%20Restricciones%20de%20Tipo.md)
+8. [Sintaxis de Restricciones de Tipo](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/8%20-%20Sintaxis%20de%20Restricciones%20de%20Tipo.md)
+9. [Tipos Asociados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/9%20-%20Tipos%20Asociados.md)
+10. [Uso de Tipos Asociados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/10%20-%20Uso%20de%20Tipos%20Asociados.md)
+11. [Cláusulas `where` en Genéricos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/11%20-%20Clausulas%20where%20en%20Genericos.md)
+12. [Cláusulas Contextuales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/12%20-%20Clausulas%20Contextuales.md)
+13. [Tipos Asociados con Cláusula `where`](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/13%20-%20Tipos%20Asociados%20con%20Clausula%20where.md)
+14. [Subíndices Genéricos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/24.%20Genericos/14%20-%20Subindices%20Genericos.md)
+
+---
+
+## 25. Tipos de Protocolo Opaco
+
+1. [El Problema de los Tipos Opacos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/25.%20Tipos%20de%20protocolo%20opaco/1%20-%20El%20Problema%20de%20los%20Tipos%20Opacos.md)
+2. [Devolviendo un Tipo Opaco](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/25.%20Tipos%20de%20protocolo%20opaco/2%20-%20Devolviendo%20un%20Tipo%20Opaco.md)
+3. [Tipos de Protocolo Encapsulados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/25.%20Tipos%20de%20protocolo%20opaco/3%20-%20Tipos%20de%20Protocolo%20Encapsulados.md)
+4. [Diferencias entre Tipos Opacos y Encapsulados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/25.%20Tipos%20de%20protocolo%20opaco/4%20-%20Diferencias%20entre%20Tipos%20Opacos%20y%20Encapsulados.md)
+
+---
+
+### 26. Recuento Automático de Referencias (ARC)
+
+1. [Cómo Funciona ARC](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/1%20-%20C%C3%B3mo%20Funciona%20ARC.md)
+2. [ARC en Acción](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/2%20-%20ARC%20en%20Acci%C3%B3n.md)
+3. [Ciclos de Referencias Fuertes Entre Instancias de Clase](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/3%20-%20Ciclos%20de%20Referencias%20Fuertes%20Entre%20Instancias%20de%20Clase.md)
+4. [Resolviendo Ciclos de Referencias Fuertes](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/4%20-%20Resolviendo%20Ciclos%20de%20Referencias%20Fuertes.md)
+5. [Referencias `unowned`](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/5%20-%20Referencias%20unowned.md)
+6. [Referencias `unowned` Opcionales](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/6%20-%20Referencias%20unowned%20Opcionales.md)
+7. [Ciclos de Referencias Fuertes en Closures](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/26.%20Recuento%20autom%C3%A1tico%20de%20referencias/7%20-%20Ciclos%20de%20Referencias%20Fuertes%20en%20Closures.md)
+8. [Resolviendo Ciclos de Referencias Fuertes en Closures](https://github.com/kontroldev/Swift-Learning/
+
+---
+
+### 27. Seguridad de la Memoria
+
+1. [Entendiendo el Acceso a la Memoria](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/27.%20Seguridad%20de%20la%20memoria/1%20-%20Entendiendo%20el%20Acceso%20a%20la%20Memoria.md)
+2. [Características del Acceso a la Memoria](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/27.%20Seguridad%20de%20la%20memoria/2%20-%20Características%20del%20Acceso%20a%20la%20Memoria.md)
+3. [Acceso en Parámetros inout](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/27.%20Seguridad%20de%20la%20memoria/3%20-%20Acceso%20en%20Parámetros%20inout.md)
+4. [Acceso en self dentro de Métodos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/27.%20Seguridad%20de%20la%20memoria/4%20-%20Acceso%20en%20self%20dentro%20de%20Métodos.md)
+5. [Acceso a Propiedades](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/27.%20Seguridad%20de%20la%20memoria/5%20-%20Acceso%20a%20Propiedades.md)
+
+---
+
+### 28. Access Control
+
+1. [Niveles de Acceso](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/1%20-%20Niveles%20de%20Acceso.md)
+2. [Principios de Acceso](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/2%20-%20Principios%20de%20Acceso.md)
+3. [Sintaxis de Control de Acceso](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/3%20-%20Sintaxis%20de%20Control%20de%20Acceso.md)
+4. [Control de Acceso en Tipos Personalizados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/4%20-%20Control%20de%20Acceso%20en%20Tipos%20Personalizados.md)
+5. [Control de Acceso en Tipos Tupla](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/5%20-%20Control%20de%20Acceso%20en%20Tipos%20Tupla.md)
+6. [Control de Acceso en Tipos Anidados](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/6%20-%20Control%20de%20Acceso%20en%20Tipos%20Anidados.md)
+7. [Control de Acceso en Constantes, Variables y Propiedades](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/7%20-%20Control%20de%20Acceso%20en%20Constantes%20Variables%20y%20Propiedades.md)
+8. [Control de Acceso en Protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/8%20-%20Control%20de%20Acceso%20en%20Protocolos.md)
+9. [Control de Acceso en Herencia de Protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/9%20-%20Control%20de%20Acceso%20en%20Herencia%20de%20Protocolos.md)
+10. [Control de Acceso en Implementación de Protocolos](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/10%20-%20Control%20de%20Acceso%20en%20Implementación%20de%20Protocolos.md)
+11. [Generics y Control de Acceso](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/11%20-%20Generics%20y%20Control%20de%20Acceso.md)
+12. [Control de Acceso en Type Aliases](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/28.%20Access%20Control/12%20-%20Control%20de%20Acceso%20en%20Type%20Aliases.md)
+
+---
+
+### 29. Advanced Operators
+
+1. [Bitwise Operator](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/1%20-%20Bitwise%20Operator.md)
+2. [Bitwise AND Operator](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/2%20-%20Bitwise%20AND%20Operator.md)
+3. [Bitwise OR Operator](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/3%20-%20Bitwise%20OR%20Operator.md)
+4. [Bitwise XOR Operator](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/4%20-%20Bitwise%20XOR%20Operator.md)
+5. [Overflow Operator](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/5%20-%20Overflow%20Operator.md)
+6. [Value Overflow](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/6%20-%20Value%20Overflow.md)
+7. [Precedence and Associativity](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/7%20-%20Precedence%20and%20Associativity.md)
+8. [Operator Methods](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/8%20-%20Operator%20Methods.md)
+9. [Prefix and Postfix Operators](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/9%20-%20Prefix%20and%20Postfix%20Operators.md)
+10. [Compound Assignment Operators](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/10%20-%20Compound%20Assignment%20Operators.md)
+11. [Equivalence Operators](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/11%20-%20Equivalence%20Operators.md)
+12. [Custom Operators](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/12%20-%20Custom%20Operators.md)
+13. [Result Builders](https://github.com/kontroldev/Swift-Learning/blob/main/Guia%20de%20lenguaje/29.%20Advanced%20Operators/13%20-%20Result%20Builders.md)
+
+---
+
+
 ## Recursos Adicionales
 
 - [Documentación oficial de Swift](https://docs.swift.org/swift-book/)
