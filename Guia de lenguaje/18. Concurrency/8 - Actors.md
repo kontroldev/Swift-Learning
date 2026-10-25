@@ -22,7 +22,7 @@ actor Contador {
 
 ## Acceder a Propiedades y Métodos de un Actor
 
-El acceso a los métodos y propiedades de un actor debe realizarse de manera asíncrona utilizando `await`.
+Desde fuera de su aislamiento, el acceso a sus miembros aislados normalmente requiere `await`. Dentro de un método del mismo actor, acceder a su estado no requiere `await`.
 
 ```swift
 let contador = Contador()
@@ -41,14 +41,18 @@ Valor actual: 1
 
 ## Protección de Datos Compartidos
 
-Los actores aseguran que los datos internos solo sean accedidos por una tarea a la vez, evitando condiciones de carrera sin necesidad de bloqueos manuales.
+Los actores serializan el acceso a su estado aislado y ayudan a evitar carreras de datos. Esto no significa que un método asíncrono se ejecute de principio a fin sin interrupciones.
+
+### Reentrancia: cuidado después de `await`
+
+Cuando un método de un actor se suspende en un `await`, otra tarea puede ejecutar código en ese actor y modificar su estado antes de que el método original continúe. Por eso, comprueba de nuevo las condiciones que dependan del estado después de la suspensión. Los actores protegen contra carreras de datos, pero no garantizan por sí solos que una operación de varios pasos sea atómica.
 
 ## Comparación entre Clases y Actores
 
 | Característica | Clase | Actor |
 |--------------|-------|-------|
 | Protege datos concurrentes | ❌ No | ✅ Sí |
-| Acceso asíncrono necesario | ❌ No | ✅ Sí |
+| Acceso a miembros aislados desde fuera | Depende de su aislamiento | Generalmente requiere `await` |
 | Uso de herencia | ✅ Sí | ❌ No |
 
 ## Cuándo Usar Actores

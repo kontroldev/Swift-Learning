@@ -1,0 +1,19 @@
+name: Validar recursos
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  comprobar:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Comprobar enlaces locales
+        run: python3 scripts/check_links.py
+      - name: Comprobar ejemplos Swift
+        run: |
+          swift -swift-version 6 Ejercicios/Soluciones.swift
+          swiftc -swift-version 6 -typecheck Proyectos/Tareas.swift
+          swiftc -swift-version 6 -typecheck Proyectos/API.swift
+          swiftc -swift-version 6 -typecheck Proyectos/ContadorView.swift
